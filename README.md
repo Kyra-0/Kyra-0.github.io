@@ -1,11 +1,6 @@
-# threejs-gltf-import
+# My Englich Project
+showcasing the Structure of an Accelerator driven subcritical reavtor
 
-Demo app for importing a .gltf model using Three.js
-
-## Demo
-
+#Based on
 https://dgreenheck.github.io/threejs-gltf-import/
-
-## Tutorial
-
 Check out the [step-by-step tutorial](https://youtu.be/aOQuuotM-Ww) on my YouTube channel!
